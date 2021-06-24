@@ -28,4 +28,29 @@ Note: Currently this project works best for russian number plates as the model u
 
 the code file:- 
              
-             untiteld.ipynb
+             untitled-1.ipynb
+             
+
+**this  will detect the plate and return the number of the license plate in the figure .**
+
+### prerequisite:- following libraries are needed to install:
+
+* Python 3
+* OpenCV
+* easyocr   
+          
+          pip install easyocr
+     
+      
+* imutils
+
+          pip install imutils
+          
+### sample image for detection - image4.png
+
+<img src="https://github.com/Shrutisinha22/NUMBER-PLATE-DETECTION/blob/main/sample%20image.JPG"/>
+          
+
+
+
+
