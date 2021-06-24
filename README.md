@@ -22,5 +22,5 @@ Note: Currently this project works best for russian number plates as the model u
 
 ## sample image
 
-<img src=""/>
+<img src="https://github.com/Shrutisinha22/NUMBER-PLATE-DETECTION/blob/main/sample%20image.JPG"/>
 
