@@ -20,7 +20,12 @@ Note: Currently this project works best for russian number plates as the model u
 * OpenCV
 * Numpy
 
-## sample image
+### sample image
 
 <img src="https://github.com/Shrutisinha22/NUMBER-PLATE-DETECTION/blob/main/sample%20image.JPG"/>
 
+## 2. to get the number of the plate from image of car.
+
+the code file:- 
+             
+             untiteld.ipynb
