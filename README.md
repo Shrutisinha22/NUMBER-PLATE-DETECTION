@@ -48,7 +48,6 @@ the code file:-
           
 ### sample image for detection - image4.png
 
-<img src="https://github.com/Shrutisinha22/NUMBER-PLATE-DETECTION/blob/main/image4.jpg"/>
 
 ### sample Output
 
